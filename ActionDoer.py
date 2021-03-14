@@ -4,7 +4,12 @@ class ActionDoer():
         self.storageName = storageName
 
     def do(self, Widget):
-        pass
+        if(self.storageType=="bucket"):
+            return self.doBucket(Widget)
+        elif(self.storageType=="DDB"):
+            return self.doDDB(Widget)
+        else:
+            return "fail"
 
     def doDDB(self,Widget):
         pass

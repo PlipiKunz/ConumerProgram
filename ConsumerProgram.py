@@ -1,9 +1,8 @@
-import ActionDoer
-import ObjectGetter
+from ActionDoer import ActionDoer
+from ObjectGetter import ObjectGetter
 import time
 
 class consumer():
-
     def __init__(self, fromBucket, storageType, storageName):
         self.bucketFromName = fromBucket
         self.storageType = storageType
