@@ -11,6 +11,8 @@ class consumer():
         self.doer = ActionDoer(self.storageType, self.storageName)
         self.getter = ObjectGetter(fromBucket)
 
+    #the main loop that constantly tries to get an object,
+    # then process the object
     def main(self):
         while(True):
             widget = self.getter.popAndMakeObject()

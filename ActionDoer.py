@@ -3,6 +3,7 @@ class ActionDoer():
         self.storageType = storageType
         self.storageName = storageName
 
+    #processes the widget
     def do(self, Widget):
         if(self.storageType=="bucket"):
             return self.doBucket(Widget)
@@ -11,8 +12,10 @@ class ActionDoer():
         else:
             return "fail"
 
+    #DynamoDB widget processor
     def doDDB(self,Widget):
         pass
 
+    #Bucket widget processor
     def doBucket(self, Widget):
         pass
