@@ -33,6 +33,3 @@ class consumer():
 
             logging.info(resultString)
 
-
-c = consumer("usu-cs5260-bluemoon-requests", "DDB", "widgets")
-c.main()

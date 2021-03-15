@@ -21,6 +21,3 @@ class ObjectGetter():
 
         return "fail"
 
-
-# getter = ObjectGetter("usu-cs5260-bluemoon-requests")
-# getter.popAndMakeObject()
