@@ -28,11 +28,11 @@ class ActionDoer():
         action = Widget["type"]
 
         Widget["widget_id"] = Widget["widgetId"]
-        for dict in Widget["otherAttributes"]:
-            newDict = {dict["name"]: dict["value"]}
-            Widget.update(newDict)
 
         if(action=="create"):
+            for dict in Widget["otherAttributes"]:
+                newDict = {dict["name"]: dict["value"]}
+                Widget.update(newDict)
             widgetTable.put_item(Item=Widget)
             return True
         else:
