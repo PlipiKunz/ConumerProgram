@@ -1,6 +1,7 @@
 from ActionDoer import ActionDoer
 from ObjectGetter import ObjectGetter
 import time
+from datetime import datetime
 
 class consumer():
     def __init__(self, fromBucket, storageType, storageName):
@@ -15,11 +16,16 @@ class consumer():
     # then process the object
     def main(self):
         while(True):
-            widget = self.getter.popAndMakeObject()
+            widgetRequest = self.getter.popAndMakeObject()
 
-            if(widget=="fail"):
+            if(widgetRequest=="fail"):
                 time.sleep(100)
                 #add log saying fail to get widget
+                print("fail")
             else:
-                result = self.doer.do(widget)
-                #add log of result
+                result = self.doer.do(widgetRequest)
+                resultString = "In "+ result["storageType"] + ": " + result['storageName'] + ", at time: " + (str)(datetime.fromtimestamp(time.time())) + ", " + result["action"] + "d widget:" + result['widget']['widgetId']
+                print(resultString)
+
+c = consumer("usu-cs5260-bluemoon-requests", "DDB", "widgets")
+c.main()
