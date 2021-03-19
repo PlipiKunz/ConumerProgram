@@ -79,3 +79,250 @@ INFO:root:In bucket: usu-cs5260-bluemoon-web, at time: 2021-03-14 21:43:07.56477
 INFO:root:In bucket: usu-cs5260-bluemoon-web, at time: 2021-03-14 21:43:08.136905, updated widget:175dba10-208d-4c09-9b90-fc7493abff54
 INFO:root:In bucket: usu-cs5260-bluemoon-web, at time: 2021-03-14 21:43:09.084096, created widget:c0c2fcd6-b90a-4160-98ac-48a890fe32ec
 INFO:root:In bucket: usu-cs5260-bluemoon-web, at time: 2021-03-14 21:43:09.607684, updated widget:7bcd48ce-37f7-48d8-b9c8-b6b310c71dcc
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:34.568301, updated widget:657d767a-d340-4c5f-8222-c0a3cd9df7ee
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:36.935298, updated widget:623d93a9-2e48-4966-8cbc-02c6d55b80ba
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:38.270037, updated widget:900b081b-bac8-410d-9282-12a0edb3c26c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:39.270249, created widget:1526348a-6234-4ee0-abb3-c9f3a2fefa5b
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:40.237733, created widget:b42a7441-96e6-49b9-ad76-310242cd422f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:42.202282, created widget:0e4ddde2-0b3f-4e78-bfd1-6b34536444aa
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:45.676645, updated widget:1fe1d70b-ecd4-415d-90e4-b1d5ee6876a8
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:47.220861, updated widget:09037aa3-d1e7-4ba3-b88b-73e78e89cf4c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:48.220563, created widget:d78ad914-9c2e-47b4-92e7-729bc35c9671
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:49.285836, created widget:ff424add-f857-42e0-8883-cd164185b386
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:50.111020, updated widget:3b3081e8-609f-47df-88bd-9c1554f9627b
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:50.805435, updated widget:f4962f98-3a6a-404f-a553-5506b8b41d06
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:51.828293, created widget:0bb9fa52-ce6c-436b-b505-3caef63374cc
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:52.514455, updated widget:d78ad914-9c2e-47b4-92e7-729bc35c9671
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:54.903748, deleted widget:314d52f1-8f43-46f8-b624-cfaa5f34ffa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:56.093678, created widget:90d539d4-cf4c-49d4-b3b6-340d07dea901
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:57.124749, created widget:527915eb-b47f-49c6-8c35-da387f70ecf3
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:00:59.912122, updated widget:ea239d66-2666-4cdf-b3f2-876164d02e77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:00.967489, created widget:26f6a96b-0826-4257-873d-ea2360800fd5
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:02.125778, created widget:66ed53c0-2c2c-47e2-ad86-25e145837317
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:03.098973, created widget:50da3b85-eee3-432d-be94-dbf17c06c3c9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:04.103700, created widget:a6f5818c-c9a9-46c2-82ca-0ce563c7ea8d
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:04.812137, updated widget:5b9a614a-acfd-47dc-8d1b-f0c758eadc5e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:05.845907, created widget:9d59b6f3-a3b2-45ea-8ad9-2752830b642c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:06.541547, updated widget:527915eb-b47f-49c6-8c35-da387f70ecf3
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:35.596142, created widget:ab36bc54-dfb9-4a70-bfde-0fd6f7d83b14
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:01:36.360689, updated widget:6b3ef7e7-3eec-4330-9634-febfa6b4a9e0
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:38.560956, created widget:b22ceaeb-a80c-446d-89e0-e4d007df4c77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:39.517638, created widget:8bf4c0af-8bd0-41c1-bfcf-2dc857ff1571
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:40.483357, created widget:54191e69-4f02-430c-98e2-d33177665ef8
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:41.422973, created widget:5423ee3d-6acb-4de2-9905-01a4cd66d4e7
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:42.459373, created widget:b66ef942-a6a8-4f06-a873-a6672a63d80f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:43.540009, created widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:44.266875, updated widget:8bf4c0af-8bd0-41c1-bfcf-2dc857ff1571
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:45.034099, updated widget:5423ee3d-6acb-4de2-9905-01a4cd66d4e7
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:45.748357, updated widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:46.855544, created widget:4b6f21c4-6704-4549-95c6-e581b484a68f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:47.991191, created widget:53789e4c-d0b3-4e41-8a17-8fd2674948b9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:48.634788, updated widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:49.475980, deleted widget:54191e69-4f02-430c-98e2-d33177665ef8
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:50.466073, created widget:6086a6d9-91b0-4c91-9041-ccdd6625f07e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:51.740188, created widget:55adee88-2a81-4b32-99b4-e6c1605384cf
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:52.777813, created widget:0f403030-4d12-4654-bcf5-c4aee1adfe77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:53.715096, created widget:62d03039-1fc0-46dc-a476-c32c9f216530
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:54.807829, created widget:71b2a60c-59a3-49cb-980a-e0cd8b20b494
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:55.614616, updated widget:b22ceaeb-a80c-446d-89e0-e4d007df4c77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:04:56.341953, updated widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:04.740689, created widget:d1afaf54-5e33-4ffa-8812-c000e4368fcd
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:05.457795, updated widget:5423ee3d-6acb-4de2-9905-01a4cd66d4e7
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:06.923722, updated widget:55adee88-2a81-4b32-99b4-e6c1605384cf
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:07.950298, created widget:c4b086c4-2b48-4d48-a953-47b68743b713
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:08.916237, created widget:60a07046-6c34-40ff-9c82-294e22d23146
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:09.696269, updated widget:0f403030-4d12-4654-bcf5-c4aee1adfe77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:11.469565, created widget:f1cd7bef-9a4d-444a-8b1a-609eeba885df
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:12.232967, updated widget:6086a6d9-91b0-4c91-9041-ccdd6625f07e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:13.014901, updated widget:5423ee3d-6acb-4de2-9905-01a4cd66d4e7
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:13.781867, updated widget:b22ceaeb-a80c-446d-89e0-e4d007df4c77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:14.422889, updated widget:71b2a60c-59a3-49cb-980a-e0cd8b20b494
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:15.379784, created widget:f644ea72-8120-4c2d-be22-73ae2889590d
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:16.089396, updated widget:71b2a60c-59a3-49cb-980a-e0cd8b20b494
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:16.797354, updated widget:b66ef942-a6a8-4f06-a873-a6672a63d80f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:18.237656, updated widget:62d03039-1fc0-46dc-a476-c32c9f216530
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:20.246207, created widget:ca38f1b2-dff6-42e2-8259-5404e141e07c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:22.297979, created widget:29641e9e-26f5-4406-a8ee-a8943d8bcc0b
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:23.026524, updated widget:c4b086c4-2b48-4d48-a953-47b68743b713
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:23.948416, created widget:c0948623-dc81-46da-945a-e926ad52dc03
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:24.646579, updated widget:6086a6d9-91b0-4c91-9041-ccdd6625f07e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:25.655015, created widget:365a6a38-6551-4d54-8072-9e9bd8a0b6c9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:26.700994, created widget:fe64ee2f-73ba-4893-a1bd-b5a7f5044c1a
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:27.658106, created widget:e1c0a2db-dcd6-43da-868f-3984925e3020
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:28.359780, updated widget:c4b086c4-2b48-4d48-a953-47b68743b713
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:29.303553, created widget:8f67ab02-0223-4f3c-a193-974e203e2283
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:30.329501, created widget:07442d65-3620-425c-90e2-1c2cfe4f7ac6
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:31.510740, created widget:6cc89d56-1d46-4248-9a18-8202a7f5f809
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:33.257830, updated widget:29641e9e-26f5-4406-a8ee-a8943d8bcc0b
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:34.230794, created widget:1b38f8e6-ba70-4939-9a86-e388491c8f7a
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:35.878926, updated widget:8f67ab02-0223-4f3c-a193-974e203e2283
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:36.591927, deleted widget:b22ceaeb-a80c-446d-89e0-e4d007df4c77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:37.341044, updated widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:38.366033, created widget:d5ba699c-a760-41e7-805f-d3d5d70d1859
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:39.018841, updated widget:c4b086c4-2b48-4d48-a953-47b68743b713
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:39.740390, deleted widget:55adee88-2a81-4b32-99b4-e6c1605384cf
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:41.040779, created widget:04b0e081-499e-4490-98e2-24597407605c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:41.760952, updated widget:0f403030-4d12-4654-bcf5-c4aee1adfe77
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:42.761750, created widget:c982f0a6-f7d0-49ef-a012-d65a74c7fd03
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:44.485709, created widget:0c82bc44-4998-4047-98ae-d1a618e5ebbc
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:45.461085, created widget:f4f246ca-640e-4062-b041-c46c2cb38529
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:46.131352, updated widget:04b0e081-499e-4490-98e2-24597407605c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:46.829396, updated widget:6086a6d9-91b0-4c91-9041-ccdd6625f07e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:48.457252, created widget:2af864dd-e4e6-4c8c-90f3-9344e80b4b28
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:49.393325, created widget:d4ce15f0-ee66-4382-a722-3a2b410ce5f8
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:50.770063, created widget:ca55d927-aebe-479e-95e0-f365b5b71875
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:51.750215, updated widget:ca55d927-aebe-479e-95e0-f365b5b71875
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:53.201343, updated widget:62d03039-1fc0-46dc-a476-c32c9f216530
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:53.934196, deleted widget:fe64ee2f-73ba-4893-a1bd-b5a7f5044c1a
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:54.946050, created widget:1c543690-d9a8-4661-a440-8f291da1261f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:55.944061, created widget:b32de07d-1546-42ef-a942-cc07dceb83ea
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:56.937772, created widget:ddbe90ae-22c9-4d36-a006-15541b200b01
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:57.646331, updated widget:8f67ab02-0223-4f3c-a193-974e203e2283
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:58.321265, updated widget:2af864dd-e4e6-4c8c-90f3-9344e80b4b28
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:59.052408, deleted widget:f644ea72-8120-4c2d-be22-73ae2889590d
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:05:59.779377, updated widget:2af864dd-e4e6-4c8c-90f3-9344e80b4b28
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:00.821648, created widget:d7ba15ef-6eff-458e-bdb1-2c948216d7dd
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:01.825019, created widget:b226fe2b-cc17-47af-aa3b-4f631b83580f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:02.584786, updated widget:13b735ca-e769-4988-ae4a-c56f9e979aa9
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:03.606126, created widget:0988cce1-1d70-484e-b6ec-fef0cddb2a99
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:04.256306, updated widget:b66ef942-a6a8-4f06-a873-a6672a63d80f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:06.306716, created widget:5733cae9-1d79-45b4-8b6c-7ffd2c081f18
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:07.360394, created widget:161e1518-71cc-44a9-96f1-9e3cf37736ac
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:08.911206, updated widget:1c543690-d9a8-4661-a440-8f291da1261f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:10.056529, created widget:66a75469-122c-4a4b-bb61-11453d8a34c4
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:11.496244, created widget:9f28abb0-e66e-4b87-8c1d-5110fd613593
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:12.195561, updated widget:c982f0a6-f7d0-49ef-a012-d65a74c7fd03
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:13.180856, created widget:f040d437-3187-45a2-b882-37aa901ee287
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:13.946782, updated widget:c4b086c4-2b48-4d48-a953-47b68743b713
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:14.683775, deleted widget:c0948623-dc81-46da-945a-e926ad52dc03
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:15.478784, updated widget:60a07046-6c34-40ff-9c82-294e22d23146
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:16.172257, updated widget:62d03039-1fc0-46dc-a476-c32c9f216530
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:16.884850, deleted widget:d5ba699c-a760-41e7-805f-d3d5d70d1859
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:17.572906, updated widget:d7ba15ef-6eff-458e-bdb1-2c948216d7dd
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:18.372102, updated widget:07442d65-3620-425c-90e2-1c2cfe4f7ac6
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:19.009709, updated widget:b66ef942-a6a8-4f06-a873-a6672a63d80f
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:20.014114, created widget:b6b152ce-56e5-4c16-b607-1e5c6b64ae19
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:20.912854, created widget:73228279-c29c-4ff9-a304-e4067a8ce9c5
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:21.601348, updated widget:60a07046-6c34-40ff-9c82-294e22d23146
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:22.298146, updated widget:f040d437-3187-45a2-b882-37aa901ee287
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:06:24.153318, created widget:d3d2017a-4f2e-4ce4-b731-0dcfc8e74844
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:13.189866, created widget:e428214c-1033-4747-aeeb-eba18b2bef82
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:14.123712, created widget:45e1dab0-a47f-49ff-a391-551279d50ab2
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:15.119103, created widget:46b627d9-76f2-46e0-8c3c-b65d1020a059
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:18.177472, created widget:e73dd8da-9b53-4a90-b30e-6e88644a0087
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:19.235064, created widget:e2541db9-b1e2-45b8-9f63-d8abe29d3608
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:21.123586, created widget:53990c76-94c6-4ed0-9a96-8201f2c85c21
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:22.232636, updated widget:53990c76-94c6-4ed0-9a96-8201f2c85c21
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:22.887109, updated widget:e2541db9-b1e2-45b8-9f63-d8abe29d3608
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:23.881235, created widget:19794e6a-582d-4f1a-9cc9-fac6b3cda618
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:10:24.604766, updated widget:e428214c-1033-4747-aeeb-eba18b2bef82
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:fail
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:botocore.credentials:Found credentials in shared credentials file: ~/.aws/credentials
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:11.894052, created widget:3e6c86dc-539e-41d3-b72b-536bf0a4f06c
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:12.874993, created widget:32cb9a00-dd26-4854-9902-258dcb0fc7cc
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:13.830320, created widget:e6047303-37fe-4b34-8bb5-08fb6258fda1
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:14.803165, created widget:6db0e5e8-9406-4ee8-9721-909d4cc9f889
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:15.818680, created widget:dc361370-1106-47ae-a969-b3323c8ff8dc
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:16.815728, created widget:5878f72b-64f8-44b2-a8ab-6d0b16bedde6
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:18.170832, updated widget:dc361370-1106-47ae-a969-b3323c8ff8dc
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:19.943997, updated widget:e6047303-37fe-4b34-8bb5-08fb6258fda1
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:20.668353, updated widget:6db0e5e8-9406-4ee8-9721-909d4cc9f889
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:22.194438, deleted widget:dc361370-1106-47ae-a969-b3323c8ff8dc
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:45.529014, created widget:e30fb3db-981f-4753-855b-c47c4ae61ef6
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:46.468725, created widget:25458048-782a-4735-9c2e-3212122f9e52
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:47.404986, created widget:8e276c35-3c47-4de1-b322-a8adf2bc3cd4
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:48.363904, created widget:8a034256-d597-4914-9617-c7dbb948a54d
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:50.210459, created widget:acfda324-ae75-4786-9af7-0cef6f4aa63e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:50.899024, updated widget:acfda324-ae75-4786-9af7-0cef6f4aa63e
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:51.562562, deleted widget:25458048-782a-4735-9c2e-3212122f9e52
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:52.524797, created widget:10bafcf2-9e64-46d6-8557-8b79646f2719
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:54.427524, created widget:7ef32f30-e699-4221-97f1-d3fc9561dbc0
+INFO:root:In DDB: widgets, at time: 2021-03-18 22:16:55.473989, created widget:dfab31d2-dede-4a48-bc56-2a7f831f5675
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail
+INFO:root:fail

@@ -12,12 +12,18 @@ class ObjectGetter():
         s3 = boto3.resource('s3')
         bucket = s3.Bucket(self.bucketName)
 
-        for item in bucket.objects.all():
-            object = s3.Object(self.bucketName, item.key).get()
-            jsonPrimitive = object["Body"].read()
-            jsonAsDict = json.loads(jsonPrimitive)
-            bucket.delete_objects(Delete={'Objects':[{"Key":item.key}]})
-            return (jsonAsDict)
+        objects = boto3.client('s3').list_objects_v2(Bucket=bucket.name, MaxKeys=1)
+
+
+        if("Contents" in objects.keys()):
+            objects = objects["Contents"]
+
+            for item in objects:
+                object = s3.Object(self.bucketName, item['Key']).get()
+                jsonPrimitive = object["Body"].read()
+                jsonAsDict = json.loads(jsonPrimitive)
+                bucket.delete_objects(Delete={'Objects':[{"Key":item['Key']}]})
+                return (jsonAsDict)
 
         return "fail"
 

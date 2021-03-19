@@ -22,7 +22,7 @@ class consumer():
             resultString = ""
 
             if(widgetRequest=="fail"):
-                time.sleep(100)
+                time.sleep(1)
                 #add log saying fail to get widget
                 resultString = "fail"
                 print("fail")
